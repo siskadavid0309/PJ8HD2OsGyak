@@ -1,0 +1,7 @@
+D:\Visual Studio\repos\OS_gyak10\OS_gyak10\bin\Debug\OS_gyak10.exe.config
+D:\Visual Studio\repos\OS_gyak10\OS_gyak10\bin\Debug\OS_gyak10.exe
+D:\Visual Studio\repos\OS_gyak10\OS_gyak10\bin\Debug\OS_gyak10.pdb
+D:\Visual Studio\repos\OS_gyak10\OS_gyak10\obj\Debug\OS_gyak10.csproj.AssemblyReference.cache
+D:\Visual Studio\repos\OS_gyak10\OS_gyak10\obj\Debug\OS_gyak10.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\OS_gyak10\OS_gyak10\obj\Debug\OS_gyak10.exe
+D:\Visual Studio\repos\OS_gyak10\OS_gyak10\obj\Debug\OS_gyak10.pdb
